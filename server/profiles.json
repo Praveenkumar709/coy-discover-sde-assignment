@@ -1,0 +1,452 @@
+[
+  {
+    "id": "p01",
+    "name": "Aarav",
+    "age": 22,
+    "city": "Hyderabad",
+    "college": "Hyderabad University",
+    "bio": "Here for good conversations and new experiences. Coffee enthusiast.",
+    "interests": [
+      "Coffee",
+      "photography",
+      "travel"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=11",
+    "likedYou": false
+  },
+  {
+    "id": "p02",
+    "name": "Ananya",
+    "age": 21,
+    "city": "Hyderabad",
+    "college": "Hyderabad University",
+    "bio": "Here for good conversations and new experiences. Books enthusiast.",
+    "interests": [
+      "Books",
+      "music",
+      "hiking"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=12",
+    "likedYou": true
+  },
+  {
+    "id": "p03",
+    "name": "Riya",
+    "age": 23,
+    "city": "Bengaluru",
+    "college": "Bengaluru University",
+    "bio": "Here for good conversations and new experiences. Art enthusiast.",
+    "interests": [
+      "Art",
+      "movies",
+      "food"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=13",
+    "likedYou": false
+  },
+  {
+    "id": "p04",
+    "name": "Ishaan",
+    "age": 22,
+    "city": "Pune",
+    "college": "Pune University",
+    "bio": "Here for good conversations and new experiences. Cricket enthusiast.",
+    "interests": [
+      "Cricket",
+      "coding",
+      "road trips"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=14",
+    "likedYou": false
+  },
+  {
+    "id": "p05",
+    "name": "Meera",
+    "age": 21,
+    "city": "Chennai",
+    "college": "Chennai University",
+    "bio": "Here for good conversations and new experiences. Dance enthusiast.",
+    "interests": [
+      "Dance",
+      "beaches",
+      "dogs"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=15",
+    "likedYou": true
+  },
+  {
+    "id": "p06",
+    "name": "Kabir",
+    "age": 24,
+    "city": "Mumbai",
+    "college": "Mumbai University",
+    "bio": "Here for good conversations and new experiences. Fitness enthusiast.",
+    "interests": [
+      "Fitness",
+      "startups",
+      "jazz"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=16",
+    "likedYou": false
+  },
+  {
+    "id": "p07",
+    "name": "Sana",
+    "age": 22,
+    "city": "Hyderabad",
+    "college": "Hyderabad University",
+    "bio": "Here for good conversations and new experiences. Painting enthusiast.",
+    "interests": [
+      "Painting",
+      "cafes",
+      "travel"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=17",
+    "likedYou": false
+  },
+  {
+    "id": "p08",
+    "name": "Arjun",
+    "age": 23,
+    "city": "Delhi",
+    "college": "Delhi University",
+    "bio": "Here for good conversations and new experiences. Basketball enthusiast.",
+    "interests": [
+      "Basketball",
+      "music",
+      "gaming"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=18",
+    "likedYou": true
+  },
+  {
+    "id": "p09",
+    "name": "Diya",
+    "age": 20,
+    "city": "Warangal",
+    "college": "Warangal University",
+    "bio": "Here for good conversations and new experiences. Reading enthusiast.",
+    "interests": [
+      "Reading",
+      "nature",
+      "films"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=19",
+    "likedYou": false
+  },
+  {
+    "id": "p10",
+    "name": "Vivaan",
+    "age": 22,
+    "city": "Bengaluru",
+    "college": "Bengaluru University",
+    "bio": "Here for good conversations and new experiences. Technology enthusiast.",
+    "interests": [
+      "Technology",
+      "cycling",
+      "coffee"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=20",
+    "likedYou": false
+  },
+  {
+    "id": "p11",
+    "name": "Nisha",
+    "age": 21,
+    "city": "Pune",
+    "college": "Pune University",
+    "bio": "Here for good conversations and new experiences. Fashion enthusiast.",
+    "interests": [
+      "Fashion",
+      "food",
+      "photography"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=21",
+    "likedYou": false
+  },
+  {
+    "id": "p12",
+    "name": "Rehan",
+    "age": 24,
+    "city": "Mumbai",
+    "college": "Mumbai University",
+    "bio": "Here for good conversations and new experiences. Football enthusiast.",
+    "interests": [
+      "Football",
+      "travel",
+      "cooking"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=22",
+    "likedYou": true
+  },
+  {
+    "id": "p13",
+    "name": "Ira",
+    "age": 22,
+    "city": "Chennai",
+    "college": "Chennai University",
+    "bio": "Here for good conversations and new experiences. Yoga enthusiast.",
+    "interests": [
+      "Yoga",
+      "books",
+      "beaches"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=23",
+    "likedYou": false
+  },
+  {
+    "id": "p14",
+    "name": "Aditya",
+    "age": 23,
+    "city": "Hyderabad",
+    "college": "Hyderabad University",
+    "bio": "Here for good conversations and new experiences. Movies enthusiast.",
+    "interests": [
+      "Movies",
+      "cricket",
+      "trekking"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=24",
+    "likedYou": false
+  },
+  {
+    "id": "p15",
+    "name": "Tara",
+    "age": 21,
+    "city": "Kochi",
+    "college": "Kochi University",
+    "bio": "Here for good conversations and new experiences. Music enthusiast.",
+    "interests": [
+      "Music",
+      "art",
+      "cats"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=25",
+    "likedYou": false
+  },
+  {
+    "id": "p16",
+    "name": "Neil",
+    "age": 22,
+    "city": "Delhi",
+    "college": "Delhi University",
+    "bio": "Here for good conversations and new experiences. Design enthusiast.",
+    "interests": [
+      "Design",
+      "fitness",
+      "travel"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=26",
+    "likedYou": false
+  },
+  {
+    "id": "p17",
+    "name": "Kavya",
+    "age": 20,
+    "city": "Vijayawada",
+    "college": "Vijayawada University",
+    "bio": "Here for good conversations and new experiences. Dance enthusiast.",
+    "interests": [
+      "Dance",
+      "cooking",
+      "books"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=27",
+    "likedYou": true
+  },
+  {
+    "id": "p18",
+    "name": "Dev",
+    "age": 24,
+    "city": "Bengaluru",
+    "college": "Bengaluru University",
+    "bio": "Here for good conversations and new experiences. AI enthusiast.",
+    "interests": [
+      "AI",
+      "chess",
+      "running"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=28",
+    "likedYou": false
+  },
+  {
+    "id": "p19",
+    "name": "Maya",
+    "age": 23,
+    "city": "Mumbai",
+    "college": "Mumbai University",
+    "bio": "Here for good conversations and new experiences. Theatre enthusiast.",
+    "interests": [
+      "Theatre",
+      "coffee",
+      "museums"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=29",
+    "likedYou": false
+  },
+  {
+    "id": "p20",
+    "name": "Rohan",
+    "age": 22,
+    "city": "Pune",
+    "college": "Pune University",
+    "bio": "Here for good conversations and new experiences. Gaming enthusiast.",
+    "interests": [
+      "Gaming",
+      "bikes",
+      "music"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=30",
+    "likedYou": false
+  },
+  {
+    "id": "p21",
+    "name": "Aisha",
+    "age": 21,
+    "city": "Hyderabad",
+    "college": "Hyderabad University",
+    "bio": "Here for good conversations and new experiences. Food enthusiast.",
+    "interests": [
+      "Food",
+      "poetry",
+      "sunsets"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=31",
+    "likedYou": true
+  },
+  {
+    "id": "p22",
+    "name": "Siddharth",
+    "age": 23,
+    "city": "Jaipur",
+    "college": "Jaipur University",
+    "bio": "Here for good conversations and new experiences. Travel enthusiast.",
+    "interests": [
+      "Travel",
+      "history",
+      "photography"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=32",
+    "likedYou": false
+  },
+  {
+    "id": "p23",
+    "name": "Pooja",
+    "age": 22,
+    "city": "Chennai",
+    "college": "Chennai University",
+    "bio": "Here for good conversations and new experiences. Movies enthusiast.",
+    "interests": [
+      "Movies",
+      "badminton",
+      "cooking"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=33",
+    "likedYou": false
+  },
+  {
+    "id": "p24",
+    "name": "Karan",
+    "age": 24,
+    "city": "Delhi",
+    "college": "Delhi University",
+    "bio": "Here for good conversations and new experiences. Entrepreneurship enthusiast.",
+    "interests": [
+      "Entrepreneurship",
+      "gym",
+      "music"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=34",
+    "likedYou": false
+  },
+  {
+    "id": "p25",
+    "name": "Zoya",
+    "age": 20,
+    "city": "Lucknow",
+    "college": "Lucknow University",
+    "bio": "Here for good conversations and new experiences. Books enthusiast.",
+    "interests": [
+      "Books",
+      "painting",
+      "nature"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=35",
+    "likedYou": false
+  },
+  {
+    "id": "p26",
+    "name": "Manav",
+    "age": 22,
+    "city": "Nagpur",
+    "college": "Nagpur University",
+    "bio": "Here for good conversations and new experiences. Cricket enthusiast.",
+    "interests": [
+      "Cricket",
+      "tech",
+      "cafes"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=36",
+    "likedYou": true
+  },
+  {
+    "id": "p27",
+    "name": "Kiara",
+    "age": 23,
+    "city": "Bengaluru",
+    "college": "Bengaluru University",
+    "bio": "Here for good conversations and new experiences. Fashion enthusiast.",
+    "interests": [
+      "Fashion",
+      "travel",
+      "dance"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=37",
+    "likedYou": false
+  },
+  {
+    "id": "p28",
+    "name": "Rahul",
+    "age": 21,
+    "city": "Hyderabad",
+    "college": "Hyderabad University",
+    "bio": "Here for good conversations and new experiences. Football enthusiast.",
+    "interests": [
+      "Football",
+      "movies",
+      "coding"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=38",
+    "likedYou": false
+  },
+  {
+    "id": "p29",
+    "name": "Simran",
+    "age": 22,
+    "city": "Amritsar",
+    "college": "Amritsar University",
+    "bio": "Here for good conversations and new experiences. Music enthusiast.",
+    "interests": [
+      "Music",
+      "food",
+      "hiking"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=39",
+    "likedYou": false
+  },
+  {
+    "id": "p30",
+    "name": "Yash",
+    "age": 23,
+    "city": "Mumbai",
+    "college": "Mumbai University",
+    "bio": "Here for good conversations and new experiences. Photography enthusiast.",
+    "interests": [
+      "Photography",
+      "swimming",
+      "travel"
+    ],
+    "photo": "https://i.pravatar.cc/600?img=40",
+    "likedYou": false
+  }
+]

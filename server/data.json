@@ -1,0 +1,32 @@
+{
+  "swipes": [
+    {
+      "profileId": "p01",
+      "action": "like",
+      "createdAt": "2026-11-17T13:23:04.881Z"
+    },
+    {
+      "profileId": "p02",
+      "action": "like",
+      "createdAt": "2026-11-17T13:23:13.065Z"
+    },
+    {
+      "profileId": "p03",
+      "action": "pass",
+      "createdAt": "2026-11-17T13:23:31.622Z"
+    },
+    {
+      "profileId": "p04",
+      "action": "like",
+      "createdAt": "2026-11-17T13:23:35.369Z"
+    },
+    {
+      "profileId": "p05",
+      "action": "pass",
+      "createdAt": "2026-11-17T13:23:40.236Z"
+    }
+  ],
+  "matches": [
+    "p02"
+  ]
+}
